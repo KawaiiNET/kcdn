@@ -1,0 +1,1 @@
+document.write('$1.85 USD');

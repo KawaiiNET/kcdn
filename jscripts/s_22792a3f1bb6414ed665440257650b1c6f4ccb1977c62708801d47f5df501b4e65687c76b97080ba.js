@@ -1,0 +1,1 @@
+Krux.ns._default.kxjsonp_userdata({"status":"400","body":{"code":"no_user_id","geo":{"domain":null,"region":"qc","latitude":"45.50","longitude":"-73.57","country":"ca","dma":"124462","zip":"h3a 2n4"}}});

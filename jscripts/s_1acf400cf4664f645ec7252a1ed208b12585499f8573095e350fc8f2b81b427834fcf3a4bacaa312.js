@@ -1,0 +1,1 @@
+Success! Your B2 bucket is connected to BunnyCDN correctly using S3 authentication.

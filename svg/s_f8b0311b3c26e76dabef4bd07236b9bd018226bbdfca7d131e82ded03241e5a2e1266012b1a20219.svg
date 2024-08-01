@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <title>Error - ☆ Starfuckers ☆</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="MXdVNjEuMmEcRhlyYXZ6FFxPD1RHemQCUwUxZUVZfyJVGGN4RxdjGw==">
+<link href="https://dragon-akamai-cdn.starfuckers.org/static/css/all-f3df348618e1b371f6a5c7414de1ac08.css?v=1492370675" rel="stylesheet">
+<script src="https://dragon-akamai-cdn.starfuckers.org/static/js/all-7f0f082eed9d37a5f5363efa8b9c5636.js?v=1492370674"></script>
+<script src="/static/js/jquery.pjax.modified.js?v=1492370674"></script>        
+
+<meta name="trafficjunky-site-verification" content="7tp69vx80" />
+
+
+<link href="https://dragon-akamai-cdn.starfuckers.org/themes/HumHub/css/theme.css" rel="stylesheet">
+<link href="https://dragon-akamai-cdn.starfuckers.org/themes/HumHub/font/open_sans/open-sans.css" rel="stylesheet">
+
+<!-- start: Favicon and Touch Icons -->
+<link rel="apple-touch-icon" sizes="57x57" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/favicon-16x16.png">
+<link rel="manifest" href="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://akamai-cdn.starfuckers.org/themes/HumHub/ico/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!-- end: Favicon and Touch Icons -->
+
+<link type="text/css" rel="stylesheet" media="all" href="https://chat.starfuckers.org/chat.css?m=5335" />
+<link type="text/css" rel="stylesheet" media="all" href="https://cdn.kawaiicdn.net/cdn/css/s_f8b0311b3c26e76dabef4bd07236b9bd018226bb9301eb4a06e707296e54dc2e276b0a7c90bcc440.css?m=633253453534733354333312" />
+<link type="text/css" rel="stylesheet" media="all" href="https://chat.starfuckers.org/screen.css?m=244565432345412321" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" media="all" href="https://chat.starfuckers.org/screen_ie.css?m=633253453534733" />
+<![endif]-->
+<script>
+var sf={};
+sf.token = function(){return '';};
+sf.pull_host = '';
+sf.user_info = {id:"",username:""};
+</script>
+<script src="https://cdn.kawaiicdn.net/cdn/js/s_f8b0311b3c26e76dabef4bd07236b9bd018226bb29cc45bc76a60a98778b9e8d69196dd23a29028a.js?m=23213232131"></script>
+<script src="https://cdn.kawaiicdn.net/cdn/js/s_08bed6f4b1f09528ed71addc72ba57deb932b388d3f20c3e4d88a1362f4d7ba0aab27f0e485883d4.js?m=23213232131"></script>
+<script src="https://cdn.kawaiicdn.net/cdn/js/s_f8b0311b3c26e76dabef4bd07236b9bd018226bb11f172ee77fcf5dbd5551598521dd617e8b4666c.js"></script>
+<!---
+<script src="https://cdn.kawaiicdn.net/cdn/js/s_f8b0311b3c26e76dabef4bd07236b9bd018226bb07e6c9a750f8eed47a5a3600eaf4b5a0642d8ea6.js"></script>
+-->
+<script src="https://chat.starfuckers.org/chat.plugins.js?m=1496926636"></script>
+<script src="https://chat.starfuckers.org/chatv2.js?m=1496926636"></script>
+<script>
+	$('a .dashboard').html('<i class="fa fa-home"></i><br/>Home');
+</script>
+    </head>
+    <body>
+        <script type="text/javascript">humhub.modules.ui.view.setState("humhub", "error", "index");
+humhub.config.set({"user":{"isGuest":true},"live":{"client":{"type":"humhub.modules.live.poll.PollClient","options":{"url":"\/live\/poll","initTime":1496926636,"minInterval":15,"maxInterval":45,"idleFactor":0.1,"idleInterval":20}}},"file":{"upload":{"url":"\/file\/file\/upload","deleteUrl":"\/file\/file\/delete"},"text":{"error.upload":"Some files could not be uploaded:","error.unknown":"An unknown error occured while uploading.","success.delete":"The file has been deleted."}},"action":{"text":{"actionHandlerNotFound":"An error occured while handling your last action. (Handler not found)."}},"ui.modal":{"defaultConfirmHeader":"<strong>Confirm<\/strong> Action","defaultConfirmBody":"Do you really want to perform this action?","defaultConfirmText":"Confirm","defaultCancelText":"Cancel"},"ui.widget":{"text":{"error.unknown":"No error information given.","info.title":"Info:","error.title":"Error:"}},"ui.richtext":{"emoji.url":"\/static\/img\/emoji\/","text":{"info.minInput":"Please type at least 3 characters","info.loading":"Loading..."}},"log":{"traceLevel":"INFO","text":{"error.default":"An unexpected error occured. If this keeps happening, please contact a site administrator.","success.saved":"Saved","saved":"Saved","success.edit":"Saved","0":"An unexpected error occured. If this keeps happening, please contact a site administrator.","403":"You are not allowed to run this action.","404":"The requested resource could not be found.","405":"Error while running your last action (Invalid request method).","500":"An unexpected server error occured. If this keeps happening, please contact a site administrator."}},"ui.status":{"showMore":false,"text":{"showMore":"Show more","showLess":"Show less"}},"ui.picker":{"text":{"error.loadingResult":"An unexpected error occured while loading the search result.","showMore":"Show more"}},"ui.showMore":{"text":{"readMore":"Read full post...","readLess":"Collapse"}},"content":{"modal":{"permalink":{"head":"<strong>Permalink<\/strong> to this post","info":"Copy to clipboard","buttonOpen":"Open","buttonClose":"Close"},"deleteConfirm":{"header":"<strong>Confirm<\/strong> post deletion","body":"Do you really want to delete this post? All likes and comments will be lost!","confirmText":"Delete","cancelText":"Cancel"}},"reloadUrl":"\/content\/content\/reload","deleteUrl":"\/content\/content\/delete-id"},"stream":{"horizontalImageScrollOnMobile":"1","defaultSort":"c","text":{"success.archive":"The content has been archived.","success.unarchive":"The content has been unarchived.","success.pin":"The content has been pinned.","success.unpin":"The content has been unpinned.","success.delete":"The content has been deleted.","info.editCancel":"Your last edit state has been saved!"}},"comment":{"modal":{"delteConfirm":{"header":"<strong>Confirm<\/strong> comment deleting","body":"Do you really want to delete this comment?","confirmText":"Delete","cancelText":"Cancel"}},"text":{"success.delete":"Comment has been deleted"}},"space":{"text":{"success.archived":"The space has been archived.","success.unarchived":"The space has been unarchived."}},"client.pjax":{"active":true,"options":{"pushRedirect":true,"replaceRedirect":true,"cache":false,"timeout":5000}}});</script>
+        <!-- start: first top navigation bar -->
+        <div id="topbar-first" class="topbar">
+            <div class="container">
+                <div class="topbar-brand hidden-xs">
+                            <a class="navbar-brand" style=" "
+       href="/dashboard" id="text-logo">
+           ☆ Starfuckers ☆    </a>
+
+
+
+
+
+
+
+                </div>
+
+                <div class="topbar-actions pull-right">
+                        <a href="#" class="btn btn-enter" data-action-click="ui.modal.load" data-action-url="/user/auth/login">
+                    Sign in / up            </a>
+                </div>
+
+                <div class="notifications pull-right">
+                                    </div>
+            </div>
+        </div>
+        <!-- end: first top navigation bar -->
+
+        <!-- start: second top navigation bar -->
+        <div id="topbar-second" class="topbar">
+            <div class="container">
+                <ul class="nav" id="top-menu-nav">
+                    <!-- load space chooser widget -->
+                    
+                    <!-- load navigation from widget -->
+                                    </ul>
+
+                <ul class="nav pull-right" id="search-menu-nav">
+                                    </ul>
+            </div>
+        </div>
+        <!-- end: second top navigation bar -->
+
+        <div id="layout-content"><div class="container">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            Oooops... It looks like you may have taken the wrong turn.        </div>
+        <div class="panel-body">
+
+            <div class="error">
+                <h2>Page not found.</h2>
+            </div>
+
+            <hr>
+            <a href="/dashboard" class="btn btn-primary">Back to dashboard</a>
+        </div>
+    </div>
+</div></div>
+        <div id="globalModal" class="modal" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static" data-ui-widget="ui.modal.Modal">
+    <!-- Dialog -->
+<div class="modal-dialog">
+    <!-- Content -->
+    <div class="modal-content">
+        <!-- Header -->
+        
+                    <!-- Body -->
+            <div class="modal-body">
+                                                    <div  class="loader humhub-ui-loader " >
+    <div class="sk-spinner sk-spinner-three-bounce">
+        <div class="sk-bounce1"></div>
+        <div class="sk-bounce2"></div>
+        <div class="sk-bounce3"></div>
+    </div>
+</div>                            </div>
+
+            <!-- Footer -->
+                        </div>
+</div>
+   
+
+</div><div id="globalModalConfirm" class="modal" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false" data-ui-widget="ui.modal.ConfirmModal">
+    <!-- Dialog -->
+<div class="modal-dialog modal-dialog-extra-small animated pulse">
+    <!-- Content -->
+    <div class="modal-content">
+        <!-- Header -->
+        
+                    <!-- Body -->
+            <div class="modal-body text-center">
+                                                    <div  class="loader humhub-ui-loader " >
+    <div class="sk-spinner sk-spinner-three-bounce">
+        <div class="sk-bounce1"></div>
+        <div class="sk-bounce2"></div>
+        <div class="sk-bounce3"></div>
+    </div>
+</div>                            </div>
+
+            <!-- Footer -->
+                            <div class="modal-footer">
+                    <button data-modal-cancel data-modal-close class="btn btn-default"></button><button data-modal-confirm data-modal-close class="btn btn-primary"></button> 
+                </div>
+                        </div>
+</div>
+   
+
+</div><!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setCookieDomain", "*.starfuckers.org"]);
+  // you can set up to 5 custom variables for each visitor
+  $("a").on("click", function(){ _paq.push(["setCustomVariable", 1, "Action", "Click", "visit"]); });   
+if(sf.user_info.username == "")
+{
+ _paq.push(["setCustomVariable", 2, "UID", 0, "visit"]);
+ _paq.push(["setCustomVariable", 3, "Username", "Guest", "visit"]);
+}
+else
+{
+_paq.push(["setCustomVariable", 2, "UID", sf.user_info.id, "visit"]);
+_paq.push(["setCustomVariable", 3, "Username", sf.user_info.username, "visit"]);
+}
+_paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analytics.cgnetwork.uk/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '3']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code --><div id="humhub-ui-loader-default" class="loader humhub-ui-loader "  style="display:none;" >
+    <div class="sk-spinner sk-spinner-three-bounce">
+        <div class="sk-bounce1"></div>
+        <div class="sk-bounce2"></div>
+        <div class="sk-bounce3"></div>
+    </div>
+</div><div id="status-bar" class="clearfix" style="display:none;">
+    <div class="status-bar-body">
+        <div class="status-bar-content"></div>
+    </div>
+</div><div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>    </body>
+</html>
